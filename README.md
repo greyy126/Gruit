@@ -1,4 +1,4 @@
-# JobSwipe – Hiring, Simplified.
+# Gruit – Hiring, Simplified.
 
 ## Inspiration  
 Traditional hiring focuses too much on keyword-based filtering, often overlooking great talent. We built a smarter system—one that:  
