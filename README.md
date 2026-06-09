@@ -9,7 +9,7 @@ Traditional hiring focuses too much on keyword-based filtering, often overlookin
 ---
 
 ## What It Does  
-**JobSwipe** is a smart hiring platform that simplifies recruitment for both applicants and recruiters.  
+**Gruit** is a smart hiring platform that simplifies recruitment for both applicants and recruiters.  
 - **Connecting Talent & Opportunity** – Matches job seekers with the right opportunities.  
 - **Effortless Apply-Pass System** – A simple swiping approach streamlines applications.  
 - **Smart Matching** – AI-driven recommendations align applicants with job descriptions for better hiring decisions.  
